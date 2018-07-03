@@ -28,8 +28,8 @@
 				
 		<!-- Header -->
 			<header id="header" class="alt">
-				<h2><strong><a href="home.php">Spatial</a></strong> by Templated</h2>
-
+<!-- 				<h2><strong><a href="home.php">Spatial</a></strong> by Templated</h2>
+ -->
 				<nav id="nav">
 					<font color=blue>
 					<ul>

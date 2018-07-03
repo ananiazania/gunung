@@ -42,6 +42,10 @@ class Page extends CI_Controller {
 			$this->load->view('Login_view');
 		}
 
+		function admin () {
+			$this->load->view('admin/indexadmin');
+		}
 		
+
 	}
 
