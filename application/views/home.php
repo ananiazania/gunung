@@ -36,7 +36,7 @@
 						
 						<li><a href="application/views/home.php"> <font color=blue> Home </font> </a></li>
 						
-						<li><a href="<?php echo base_url().'index.php/page/Login_view'; ?>"><font color=blue> Masuk/Daftar </font></a></li>
+						<li><a href="<?php echo base_url().'index.php/page/masuk'; ?>"><font color=blue> Masuk/Daftar </font></a></li>
 						
 				
 						<li>
