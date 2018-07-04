@@ -35,6 +35,14 @@
       <label for="">Password</label>
       <input type="Password" class="form-control" id="password" name="password" placeholder="Masukan Password Anda">
     </div>
+
+
+    <div class="form-group">
+      <label for=""> Email </label>
+      <input type="text" class="form-control" id="email" name="email" placeholder="Masukan Email Anda">
+    </div>
+
+
     <div class="form-group">
       <label for="">Level</label>
       <select name="level" id="level" class="form-control" style="height: 45px;">
